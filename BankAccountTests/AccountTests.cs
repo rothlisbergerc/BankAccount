@@ -41,7 +41,7 @@ namespace BankAccount.Tests
             // AAA - Arrange Act Assert
 
             // Arrange - Creating variables/object
-            const double startBalance = 0;
+            const double startBalance = 0; 
 
             // Act - Execute method under test
             acc.Deposit(initialDeposit);
